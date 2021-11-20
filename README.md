@@ -51,7 +51,7 @@ YOu can go through among them for specified details regarding the topics listed 
 - [stylesheets/README.md](stylesheets/README.md)
 - [tests/README.md](tests/README.md)
 
-## License
+## License rir dkd ore o.ps
 
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 
